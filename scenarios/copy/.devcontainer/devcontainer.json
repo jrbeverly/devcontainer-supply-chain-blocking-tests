@@ -1,0 +1,9 @@
+{
+  "name": "supply-chain-copy",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "../../.."
+  },
+  "workspaceFolder": "/workspaces/copy",
+  "remoteUser": "root"
+}

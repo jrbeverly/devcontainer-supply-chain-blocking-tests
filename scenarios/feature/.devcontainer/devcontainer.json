@@ -1,0 +1,9 @@
+{
+  "name": "feature-scenario",
+  "image": "node:20-slim",
+  "workspaceFolder": "/workspace",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+  "features": {
+    "./features/supply-chain-block": {}
+  }
+}

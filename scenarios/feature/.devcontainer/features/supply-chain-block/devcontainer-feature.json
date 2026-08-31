@@ -1,0 +1,6 @@
+{
+  "id": "supply-chain-block",
+  "version": "0.1.0",
+  "name": "Supply Chain Block",
+  "description": "Redirects the npm registry to a non-routable address."
+}
